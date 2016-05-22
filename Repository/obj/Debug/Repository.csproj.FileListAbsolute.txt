@@ -1,0 +1,12 @@
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\Repository.dll
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\Repository.pdb
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\MongoDB.Bson.dll
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\MongoDB.Driver.dll
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\MongoDB.Bson.xml
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\MongoDB.Driver.xml
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\obj\Debug\Repository.dll
+D:\Projects\Repos\Mongo-Generic-Repository\Repository\obj\Debug\Repository.pdb
